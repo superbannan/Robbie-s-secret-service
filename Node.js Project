@@ -1,0 +1,4 @@
+mkdir proxy-site
+cd proxy-site
+npm init -y
+npm install express axios bcryptjs cookie-parser express-session mongoose body-parser
